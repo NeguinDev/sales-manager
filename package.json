@@ -1,0 +1,21 @@
+{
+  "name": "dona-bela-variedades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Neguin and PiveT",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.8.2",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "helmet": "^5.1.1",
+    "html": "^1.0.0",
+    "morgan": "^1.10.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"sales": {
+		"Bolo de Chocolate": {
+			"days": {
+				"7/2": {
+					"amount": 2,
+					"day": "7/2"
+				},
+				"8/2": {
+					"amount": 1,
+					"day": "8/2"
+				}
+			},
+			"name": "Bolo de Chocolate",
+			"price": "15",
+			"description": "Bah guri"
+		}
+	}
+}
